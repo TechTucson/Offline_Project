@@ -1,4 +1,4 @@
 - Allow from unknown sources
 - USB on the GO (Preferred)
 - SD Card
-- 
+- Semi Powerful
