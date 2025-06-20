@@ -2,3 +2,7 @@
   - ![image](https://github.com/user-attachments/assets/cb7a6264-46aa-4933-973c-163939dca661)
 - I had some car batteries around that I tend to keep for different things
 - I also have been collecting wires and knick-knacks for the last forever-time.
+  - Things that are useful here:
+    - 12V Cigarette Lighter Adapter (CLA)
+    - 12V CLA  USB (Micro,Mini,C) Adapter Charger
+    - 12V CLA Invertor 120V
