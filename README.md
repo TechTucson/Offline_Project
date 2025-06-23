@@ -8,8 +8,9 @@ There's always the chicken and the egg conversation, do I start with power or th
 #### Solar/Power/Energy
 - https://github.com/TechTucson/Offline_Project/blob/main/solar.md
   - We'll need to power things, since we're working with Android devices (phones and tablets), which have internal batteries, and charging them is essentially universal. We'll need a power source (i.e., batteries) and a way to replenish that power source (i.e., solar). 
-  
+### Computer/Storage/Networking (Android Devices)  
 - https://github.com/TechTucson/Offline_Project/blob/main/android.md
+### Informations ( Wikipedia,Books)
 - https://github.com/TechTucson/Offline_Project/blob/main/kiwix.md
 ## Goals
 - Let's start off with power; all electronics need power. I've collected a couple of items that we'll use, and those include a Car Battery, a Cheap Solar Kit, maybe an Inverter.
