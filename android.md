@@ -13,4 +13,6 @@ Here is what we'll need:
   - https://www.ppsspp.org/files/1_19_2/ppsspp.apk ( PSP Emulator)
     - For Entertainment   
   - https://apkpure.com/awebserver-http-apache-php-sql/com.sylkat.apache/download (Apache Web Server)
-    - For Hosting Files 
+    - For Hosting Files
+  - https://sourceforge.net/projects/fldigi/files/AndFlmsg/AndFlmsg_V1.5.0-20210812.apk/download
+    - Some Radio Stuff   
