@@ -1,7 +1,6 @@
 # Offline_Project
 - TLDR: Summing up this project, I would say that it's my spin on a cyberdeck. At least with the current definition that has been floating around. 
 - I've been interested in emergency communications and cyber preparedness for some time now. I suppose I should briefly define those two terms before I proceed. Yes, this is going to be one of those projects where I talk about the grid down scenario :), and by grid, I mean power and internet. Maybe I should focus on shelter, water, and food, but what's the fun in that? Don't worry, we'll touch on some of that.  I've seen some projects out there that inspired me to add my own two cents to this topic; it's going to be a spinoff of various in-flight and some completed projects.
-- 
 
 ## Menu
 There's always the chicken and the egg conversation, do I start with power or the devices I am going to power? This is the initial thoughts of how things would work :) Modify things to fit your needs.
